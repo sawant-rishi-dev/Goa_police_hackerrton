@@ -1,0 +1,1214 @@
+[
+  {
+    "timestamp": "2025-10-10T11:15:41.437395",
+    "type": "search",
+    "details": {
+      "platform": "Google",
+      "query": "goa"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:15:48.833872",
+    "type": "search_results",
+    "details": {
+      "platform": "Google",
+      "count": 6
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:15:48.847163",
+    "type": "search",
+    "details": {
+      "platform": "YouTube",
+      "query": "goa"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:15:50.124403",
+    "type": "search_results",
+    "details": {
+      "platform": "YouTube",
+      "count": 10
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:15:50.135611",
+    "type": "search",
+    "details": {
+      "platform": "Facebook",
+      "query": "goa"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:16:28.179056",
+    "type": "search_results",
+    "details": {
+      "platform": "Facebook",
+      "count": 4
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:16:28.187725",
+    "type": "search",
+    "details": {
+      "platform": "Instagram",
+      "query": "goa"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:16:41.975753",
+    "type": "search_results",
+    "details": {
+      "platform": "Instagram",
+      "count": 10
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:16:41.987194",
+    "type": "content_analysis",
+    "details": {
+      "source": "Google",
+      "url": "https://en.wikipedia.org/wiki/Goa"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:16:47.676639",
+    "type": "whois_check",
+    "details": {
+      "url": "https://en.wikipedia.org/wiki/Goa"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:17:01.581391",
+    "type": "whois_result",
+    "details": {
+      "url": "https://en.wikipedia.org/wiki/Goa",
+      "risk_level": "Minimal",
+      "risk_score": 0
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:17:01.591991",
+    "type": "location_verification",
+    "details": {
+      "url": "https://en.wikipedia.org/wiki/Goa",
+      "title": "Goa"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:17:01.601068",
+    "type": "location_result",
+    "details": {
+      "url": "https://en.wikipedia.org/wiki/Goa",
+      "verified": false,
+      "reason": "Not hotel-related"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:17:01.610870",
+    "type": "content_analysis",
+    "details": {
+      "source": "Google",
+      "url": "https://www.google.com/search?sca_esv=187b5f84871fbe73&sxsrf=AE3TifNnzMR3SPnE6ZXb1JV-mB2vAISaGQ:1760075142193&q=olive+ridley+sea+turtles&sa=X&ved=2ahUKEwjTooPt9piQAxWzWHADHexbKVAQxccNegUIrQIQAQ"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:17:06.637069",
+    "type": "whois_check",
+    "details": {
+      "url": "https://www.google.com/search?sca_esv=187b5f84871fbe73&sxsrf=AE3TifNnzMR3SPnE6ZXb1JV-mB2vAISaGQ:1760075142193&q=olive+ridley+sea+turtles&sa=X&ved=2ahUKEwjTooPt9piQAxWzWHADHexbKVAQxccNegUIrQIQAQ"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:17:08.152213",
+    "type": "whois_result",
+    "details": {
+      "url": "https://www.google.com/search?sca_esv=187b5f84871fbe73&sxsrf=AE3TifNnzMR3SPnE6ZXb1JV-mB2vAISaGQ:1760075142193&q=olive+ridley+sea+turtles&sa=X&ved=2ahUKEwjTooPt9piQAxWzWHADHexbKVAQxccNegUIrQIQAQ",
+      "risk_level": "Minimal",
+      "risk_score": 0
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:17:08.164068",
+    "type": "location_verification",
+    "details": {
+      "url": "https://www.google.com/search?sca_esv=187b5f84871fbe73&sxsrf=AE3TifNnzMR3SPnE6ZXb1JV-mB2vAISaGQ:1760075142193&q=olive+ridley+sea+turtles&sa=X&ved=2ahUKEwjTooPt9piQAxWzWHADHexbKVAQxccNegUIrQIQAQ",
+      "title": ""
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:17:08.173001",
+    "type": "location_result",
+    "details": {
+      "url": "https://www.google.com/search?sca_esv=187b5f84871fbe73&sxsrf=AE3TifNnzMR3SPnE6ZXb1JV-mB2vAISaGQ:1760075142193&q=olive+ridley+sea+turtles&sa=X&ved=2ahUKEwjTooPt9piQAxWzWHADHexbKVAQxccNegUIrQIQAQ",
+      "verified": false,
+      "reason": "Not hotel-related"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:17:08.182521",
+    "type": "content_analysis",
+    "details": {
+      "source": "Google",
+      "url": "https://www.google.com/search?sca_esv=187b5f84871fbe73&sxsrf=AE3TifNnzMR3SPnE6ZXb1JV-mB2vAISaGQ:1760075142193&q=Palolem+Beach&si=AMgyJEveiRpRWbYSNPkEPxCUbItHSvun4xkRgDDPLmrOjDx35Acy4RmontR09VebbgzBZejLeEIDloC9IQ1ZhQI5SYnlPvyYyw%3D%3D&sa=X&ved=2ahUKEwjTooPt9piQAxWzWHADHexbKVAQs4ILegQIUxAD"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:17:11.329299",
+    "type": "whois_check",
+    "details": {
+      "url": "https://www.google.com/search?sca_esv=187b5f84871fbe73&sxsrf=AE3TifNnzMR3SPnE6ZXb1JV-mB2vAISaGQ:1760075142193&q=Palolem+Beach&si=AMgyJEveiRpRWbYSNPkEPxCUbItHSvun4xkRgDDPLmrOjDx35Acy4RmontR09VebbgzBZejLeEIDloC9IQ1ZhQI5SYnlPvyYyw%3D%3D&sa=X&ved=2ahUKEwjTooPt9piQAxWzWHADHexbKVAQs4ILegQIUxAD"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:17:13.138450",
+    "type": "whois_result",
+    "details": {
+      "url": "https://www.google.com/search?sca_esv=187b5f84871fbe73&sxsrf=AE3TifNnzMR3SPnE6ZXb1JV-mB2vAISaGQ:1760075142193&q=Palolem+Beach&si=AMgyJEveiRpRWbYSNPkEPxCUbItHSvun4xkRgDDPLmrOjDx35Acy4RmontR09VebbgzBZejLeEIDloC9IQ1ZhQI5SYnlPvyYyw%3D%3D&sa=X&ved=2ahUKEwjTooPt9piQAxWzWHADHexbKVAQs4ILegQIUxAD",
+      "risk_level": "Minimal",
+      "risk_score": 0
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:17:13.151949",
+    "type": "location_verification",
+    "details": {
+      "url": "https://www.google.com/search?sca_esv=187b5f84871fbe73&sxsrf=AE3TifNnzMR3SPnE6ZXb1JV-mB2vAISaGQ:1760075142193&q=Palolem+Beach&si=AMgyJEveiRpRWbYSNPkEPxCUbItHSvun4xkRgDDPLmrOjDx35Acy4RmontR09VebbgzBZejLeEIDloC9IQ1ZhQI5SYnlPvyYyw%3D%3D&sa=X&ved=2ahUKEwjTooPt9piQAxWzWHADHexbKVAQs4ILegQIUxAD",
+      "title": "Palolem Beach"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:17:13.164574",
+    "type": "location_result",
+    "details": {
+      "url": "https://www.google.com/search?sca_esv=187b5f84871fbe73&sxsrf=AE3TifNnzMR3SPnE6ZXb1JV-mB2vAISaGQ:1760075142193&q=Palolem+Beach&si=AMgyJEveiRpRWbYSNPkEPxCUbItHSvun4xkRgDDPLmrOjDx35Acy4RmontR09VebbgzBZejLeEIDloC9IQ1ZhQI5SYnlPvyYyw%3D%3D&sa=X&ved=2ahUKEwjTooPt9piQAxWzWHADHexbKVAQs4ILegQIUxAD",
+      "verified": false,
+      "reason": "Not hotel-related"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:17:13.177298",
+    "type": "content_analysis",
+    "details": {
+      "source": "Google",
+      "url": "https://www.google.com/search?q=goa#"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:17:19.250095",
+    "type": "whois_check",
+    "details": {
+      "url": "https://www.google.com/search?q=goa#"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:17:20.705556",
+    "type": "whois_result",
+    "details": {
+      "url": "https://www.google.com/search?q=goa#",
+      "risk_level": "Minimal",
+      "risk_score": 0
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:17:20.718750",
+    "type": "location_verification",
+    "details": {
+      "url": "https://www.google.com/search?q=goa#",
+      "title": "Tourist Attractions"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:17:20.729969",
+    "type": "location_result",
+    "details": {
+      "url": "https://www.google.com/search?q=goa#",
+      "verified": false,
+      "reason": "Not hotel-related"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:17:20.743337",
+    "type": "content_analysis",
+    "details": {
+      "source": "Google",
+      "url": "http://www.google.com/search?q=Goa+stay&mrq=1&mrqri=0&mrqei=hp3oaNPHC7OxwcsP7LelgQU&sa=X&ved=2ahUKEwjTooPt9piQAxWzWHADHexbKVAQyO0OKAB6BQimARAF"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:17:24.943074",
+    "type": "whois_check",
+    "details": {
+      "url": "http://www.google.com/search?q=Goa+stay&mrq=1&mrqri=0&mrqei=hp3oaNPHC7OxwcsP7LelgQU&sa=X&ved=2ahUKEwjTooPt9piQAxWzWHADHexbKVAQyO0OKAB6BQimARAF"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:17:26.346739",
+    "type": "whois_result",
+    "details": {
+      "url": "http://www.google.com/search?q=Goa+stay&mrq=1&mrqri=0&mrqei=hp3oaNPHC7OxwcsP7LelgQU&sa=X&ved=2ahUKEwjTooPt9piQAxWzWHADHexbKVAQyO0OKAB6BQimARAF",
+      "risk_level": "Minimal",
+      "risk_score": 0
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:17:26.360891",
+    "type": "location_verification",
+    "details": {
+      "url": "http://www.google.com/search?q=Goa+stay&mrq=1&mrqri=0&mrqei=hp3oaNPHC7OxwcsP7LelgQU&sa=X&ved=2ahUKEwjTooPt9piQAxWzWHADHexbKVAQyO0OKAB6BQimARAF",
+      "title": "Find related products & services"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:17:26.370422",
+    "type": "location_result",
+    "details": {
+      "url": "http://www.google.com/search?q=Goa+stay&mrq=1&mrqri=0&mrqei=hp3oaNPHC7OxwcsP7LelgQU&sa=X&ved=2ahUKEwjTooPt9piQAxWzWHADHexbKVAQyO0OKAB6BQimARAF",
+      "verified": false,
+      "reason": "Not hotel-related"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:17:26.382470",
+    "type": "content_analysis",
+    "details": {
+      "source": "Google",
+      "url": "https://www.instagram.com/p/DPjiecHDGXP/"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:17:32.302202",
+    "type": "whois_check",
+    "details": {
+      "url": "https://www.instagram.com/p/DPjiecHDGXP/"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:17:33.715690",
+    "type": "whois_result",
+    "details": {
+      "url": "https://www.instagram.com/p/DPjiecHDGXP/",
+      "risk_level": "Minimal",
+      "risk_score": 0
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:17:33.728500",
+    "type": "location_verification",
+    "details": {
+      "url": "https://www.instagram.com/p/DPjiecHDGXP/",
+      "title": "130+ likes"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:17:33.738907",
+    "type": "location_result",
+    "details": {
+      "url": "https://www.instagram.com/p/DPjiecHDGXP/",
+      "verified": false,
+      "reason": "Not hotel-related"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:17:33.750575",
+    "type": "content_analysis",
+    "details": {
+      "source": "YouTube",
+      "url": "https://www.youtube.com/watch?v=sifEf0iS8Lc"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:17:39.595967",
+    "type": "content_analysis",
+    "details": {
+      "source": "YouTube",
+      "url": "https://www.youtube.com/watch?v=a7JZ02jXT4I"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:17:44.054406",
+    "type": "content_analysis",
+    "details": {
+      "source": "YouTube",
+      "url": "https://www.youtube.com/watch?v=z_8Gzjx3s_Q"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:17:48.731203",
+    "type": "content_analysis",
+    "details": {
+      "source": "YouTube",
+      "url": "https://www.youtube.com/watch?v=hWwhSitsEAw"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:17:57.409941",
+    "type": "content_analysis",
+    "details": {
+      "source": "YouTube",
+      "url": "https://www.youtube.com/watch?v=FFwPNJga0gc"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:18:01.904528",
+    "type": "content_analysis",
+    "details": {
+      "source": "YouTube",
+      "url": "https://www.youtube.com/watch?v=WRlMqsXftug"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:18:06.566371",
+    "type": "content_analysis",
+    "details": {
+      "source": "YouTube",
+      "url": "https://www.youtube.com/watch?v=F3YGYr37QFI"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:18:14.868228",
+    "type": "content_analysis",
+    "details": {
+      "source": "YouTube",
+      "url": "https://www.youtube.com/watch?v=61gYc-ypMqU"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:18:18.547705",
+    "type": "content_analysis",
+    "details": {
+      "source": "YouTube",
+      "url": "https://www.youtube.com/watch?v=Xy_81EBUlbA"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:18:23.833165",
+    "type": "content_analysis",
+    "details": {
+      "source": "YouTube",
+      "url": "https://www.youtube.com/watch?v=7wEbd0oFMgA"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:18:28.226161",
+    "type": "content_analysis",
+    "details": {
+      "source": "Facebook",
+      "url": "https://www.facebook.com/GoaExplore?__tn__=%3C"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:18:34.707048",
+    "type": "whois_check",
+    "details": {
+      "url": "https://www.facebook.com/GoaExplore?__tn__=%3C"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:18:36.267967",
+    "type": "whois_result",
+    "details": {
+      "url": "https://www.facebook.com/GoaExplore?__tn__=%3C",
+      "risk_level": "Minimal",
+      "risk_score": 0
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:18:36.281031",
+    "type": "content_analysis",
+    "details": {
+      "source": "Facebook",
+      "url": "No link found"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:18:42.408826",
+    "type": "whois_check",
+    "details": {
+      "url": "No link found"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:18:43.661149",
+    "type": "whois_result",
+    "details": {
+      "url": "https://No link found",
+      "risk_level": "Minimal",
+      "risk_score": 0
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:18:43.676644",
+    "type": "content_analysis",
+    "details": {
+      "source": "Facebook",
+      "url": "https://www.facebook.com/groups/GoaTraveller/?__tn__=%3C"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:18:55.191005",
+    "type": "whois_check",
+    "details": {
+      "url": "https://www.facebook.com/groups/GoaTraveller/?__tn__=%3C"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:18:56.621088",
+    "type": "whois_result",
+    "details": {
+      "url": "https://www.facebook.com/groups/GoaTraveller/?__tn__=%3C",
+      "risk_level": "Minimal",
+      "risk_score": 0
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:18:56.637544",
+    "type": "content_analysis",
+    "details": {
+      "source": "Facebook",
+      "url": "No link found"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:19:03.021898",
+    "type": "whois_check",
+    "details": {
+      "url": "No link found"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:19:04.147934",
+    "type": "whois_result",
+    "details": {
+      "url": "https://No link found",
+      "risk_level": "Minimal",
+      "risk_score": 0
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:19:04.163599",
+    "type": "content_analysis",
+    "details": {
+      "source": "Instagram",
+      "url": "https://www.instagram.com/p/DOSVtC5E4Ry/"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:19:11.661479",
+    "type": "whois_check",
+    "details": {
+      "url": "https://www.instagram.com/p/DOSVtC5E4Ry/"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:19:13.103565",
+    "type": "whois_result",
+    "details": {
+      "url": "https://www.instagram.com/p/DOSVtC5E4Ry/",
+      "risk_level": "Minimal",
+      "risk_score": 0
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:19:13.119743",
+    "type": "content_analysis",
+    "details": {
+      "source": "Instagram",
+      "url": "https://www.instagram.com/p/DNlMye3SDTN/"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:19:19.341070",
+    "type": "whois_check",
+    "details": {
+      "url": "https://www.instagram.com/p/DNlMye3SDTN/"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:19:20.737623",
+    "type": "whois_result",
+    "details": {
+      "url": "https://www.instagram.com/p/DNlMye3SDTN/",
+      "risk_level": "Minimal",
+      "risk_score": 0
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:19:20.752338",
+    "type": "content_analysis",
+    "details": {
+      "source": "Instagram",
+      "url": "https://www.instagram.com/p/DJEZX7GS2Sj/"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:19:26.062524",
+    "type": "whois_check",
+    "details": {
+      "url": "https://www.instagram.com/p/DJEZX7GS2Sj/"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:19:28.147680",
+    "type": "whois_result",
+    "details": {
+      "url": "https://www.instagram.com/p/DJEZX7GS2Sj/",
+      "risk_level": "Minimal",
+      "risk_score": 0
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:19:28.164253",
+    "type": "content_analysis",
+    "details": {
+      "source": "Instagram",
+      "url": "https://www.instagram.com/p/DNvg9iN2Jzz/"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:19:35.191471",
+    "type": "whois_check",
+    "details": {
+      "url": "https://www.instagram.com/p/DNvg9iN2Jzz/"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:19:36.302144",
+    "type": "whois_result",
+    "details": {
+      "url": "https://www.instagram.com/p/DNvg9iN2Jzz/",
+      "risk_level": "Minimal",
+      "risk_score": 0
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:19:36.319476",
+    "type": "content_analysis",
+    "details": {
+      "source": "Instagram",
+      "url": "https://www.instagram.com/p/DOAqHbyE2kl/"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:19:41.340733",
+    "type": "whois_check",
+    "details": {
+      "url": "https://www.instagram.com/p/DOAqHbyE2kl/"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:19:42.865117",
+    "type": "whois_result",
+    "details": {
+      "url": "https://www.instagram.com/p/DOAqHbyE2kl/",
+      "risk_level": "Minimal",
+      "risk_score": 0
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:19:42.881288",
+    "type": "content_analysis",
+    "details": {
+      "source": "Instagram",
+      "url": "https://www.instagram.com/p/DOTscT5jzi2/"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:19:51.988625",
+    "type": "whois_check",
+    "details": {
+      "url": "https://www.instagram.com/p/DOTscT5jzi2/"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:19:52.986531",
+    "type": "whois_result",
+    "details": {
+      "url": "https://www.instagram.com/p/DOTscT5jzi2/",
+      "risk_level": "Minimal",
+      "risk_score": 0
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:19:53.005345",
+    "type": "content_analysis",
+    "details": {
+      "source": "Instagram",
+      "url": "https://www.instagram.com/p/DN9LrrGk3om/"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:20:00.306038",
+    "type": "whois_check",
+    "details": {
+      "url": "https://www.instagram.com/p/DN9LrrGk3om/"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:20:01.695432",
+    "type": "whois_result",
+    "details": {
+      "url": "https://www.instagram.com/p/DN9LrrGk3om/",
+      "risk_level": "Minimal",
+      "risk_score": 0
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:20:01.712579",
+    "type": "content_analysis",
+    "details": {
+      "source": "Instagram",
+      "url": "https://www.instagram.com/p/DPL1cf-CBWs/"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:20:08.436457",
+    "type": "whois_check",
+    "details": {
+      "url": "https://www.instagram.com/p/DPL1cf-CBWs/"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:20:10.064665",
+    "type": "whois_result",
+    "details": {
+      "url": "https://www.instagram.com/p/DPL1cf-CBWs/",
+      "risk_level": "Minimal",
+      "risk_score": 0
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:20:10.081792",
+    "type": "content_analysis",
+    "details": {
+      "source": "Instagram",
+      "url": "https://www.instagram.com/p/DM2ygdhJqEL/"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:20:18.399998",
+    "type": "whois_check",
+    "details": {
+      "url": "https://www.instagram.com/p/DM2ygdhJqEL/"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:20:20.459173",
+    "type": "whois_result",
+    "details": {
+      "url": "https://www.instagram.com/p/DM2ygdhJqEL/",
+      "risk_level": "Minimal",
+      "risk_score": 0
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:20:20.477313",
+    "type": "content_analysis",
+    "details": {
+      "source": "Instagram",
+      "url": "https://www.instagram.com/p/DOiJv5EkUoJ/"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:20:27.150185",
+    "type": "whois_check",
+    "details": {
+      "url": "https://www.instagram.com/p/DOiJv5EkUoJ/"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:20:28.523025",
+    "type": "whois_result",
+    "details": {
+      "url": "https://www.instagram.com/p/DOiJv5EkUoJ/",
+      "risk_level": "Minimal",
+      "risk_score": 0
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:42:29.862199",
+    "type": "search",
+    "details": {
+      "platform": "Google",
+      "query": "goa "
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:42:37.316833",
+    "type": "search_results",
+    "details": {
+      "platform": "Google",
+      "count": 6
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:42:37.331566",
+    "type": "search",
+    "details": {
+      "platform": "YouTube",
+      "query": "goa "
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:42:38.290564",
+    "type": "search_results",
+    "details": {
+      "platform": "YouTube",
+      "count": 10
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:42:38.304658",
+    "type": "search",
+    "details": {
+      "platform": "Facebook",
+      "query": "goa "
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:43:08.002736",
+    "type": "search_results",
+    "details": {
+      "platform": "Facebook",
+      "count": 4
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:43:08.029272",
+    "type": "search",
+    "details": {
+      "platform": "Instagram",
+      "query": "goa "
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:43:21.507783",
+    "type": "search_results",
+    "details": {
+      "platform": "Instagram",
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:43:21.558443",
+    "type": "content_analysis",
+    "details": {
+      "source": "Google",
+      "url": "https://en.wikipedia.org/wiki/Goa"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:43:26.078354",
+    "type": "scamadviser_analysis",
+    "details": {
+      "url": "https://en.wikipedia.org/wiki/Goa"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:43:29.732037",
+    "type": "scamadviser_result",
+    "details": {
+      "url": "https://en.wikipedia.org/wiki/Goa",
+      "trust_score": 40,
+      "verdict": "Suspicious"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:43:29.782354",
+    "type": "location_verification",
+    "details": {
+      "url": "https://en.wikipedia.org/wiki/Goa",
+      "title": "Goa"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:43:29.836868",
+    "type": "location_result",
+    "details": {
+      "url": "https://en.wikipedia.org/wiki/Goa",
+      "verified": false,
+      "reason": "Not hotel-related"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:43:29.895848",
+    "type": "content_analysis",
+    "details": {
+      "source": "Google",
+      "url": "https://www.google.com/search?sca_esv=fe1d53302ad225f0&sxsrf=AE3TifNBMS_0uQlvzwZujmewClZ_a9H_yA:1760076750584&q=olive+ridley+sea+turtles&sa=X&ved=2ahUKEwie1fvr_JiQAxUkS2cHHQUBA2UQxccNegUIiQMQAQ"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:43:35.778829",
+    "type": "scamadviser_analysis",
+    "details": {
+      "url": "https://www.google.com/search?sca_esv=fe1d53302ad225f0&sxsrf=AE3TifNBMS_0uQlvzwZujmewClZ_a9H_yA:1760076750584&q=olive+ridley+sea+turtles&sa=X&ved=2ahUKEwie1fvr_JiQAxUkS2cHHQUBA2UQxccNegUIiQMQAQ"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:43:39.151475",
+    "type": "scamadviser_result",
+    "details": {
+      "url": "https://www.google.com/search?sca_esv=fe1d53302ad225f0&sxsrf=AE3TifNBMS_0uQlvzwZujmewClZ_a9H_yA:1760076750584&q=olive+ridley+sea+turtles&sa=X&ved=2ahUKEwie1fvr_JiQAxUkS2cHHQUBA2UQxccNegUIiQMQAQ",
+      "trust_score": 55,
+      "verdict": "Suspicious"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:43:39.197982",
+    "type": "location_verification",
+    "details": {
+      "url": "https://www.google.com/search?sca_esv=fe1d53302ad225f0&sxsrf=AE3TifNBMS_0uQlvzwZujmewClZ_a9H_yA:1760076750584&q=olive+ridley+sea+turtles&sa=X&ved=2ahUKEwie1fvr_JiQAxUkS2cHHQUBA2UQxccNegUIiQMQAQ",
+      "title": ""
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:43:39.246345",
+    "type": "location_result",
+    "details": {
+      "url": "https://www.google.com/search?sca_esv=fe1d53302ad225f0&sxsrf=AE3TifNBMS_0uQlvzwZujmewClZ_a9H_yA:1760076750584&q=olive+ridley+sea+turtles&sa=X&ved=2ahUKEwie1fvr_JiQAxUkS2cHHQUBA2UQxccNegUIiQMQAQ",
+      "verified": false,
+      "reason": "Not hotel-related"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:43:39.296170",
+    "type": "content_analysis",
+    "details": {
+      "source": "Google",
+      "url": "https://www.google.com/search?sca_esv=fe1d53302ad225f0&sxsrf=AE3TifNBMS_0uQlvzwZujmewClZ_a9H_yA:1760076750584&q=Palolem+Beach&si=AMgyJEveiRpRWbYSNPkEPxCUbItHSvun4xkRgDDPLmrOjDx35Acy4RmontR09VebbgzBZejLeEIDloC9IQ1ZhQI5SYnlPvyYyw%3D%3D&sa=X&ved=2ahUKEwie1fvr_JiQAxUkS2cHHQUBA2UQs4ILegQIZRAD"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:43:42.898263",
+    "type": "scamadviser_analysis",
+    "details": {
+      "url": "https://www.google.com/search?sca_esv=fe1d53302ad225f0&sxsrf=AE3TifNBMS_0uQlvzwZujmewClZ_a9H_yA:1760076750584&q=Palolem+Beach&si=AMgyJEveiRpRWbYSNPkEPxCUbItHSvun4xkRgDDPLmrOjDx35Acy4RmontR09VebbgzBZejLeEIDloC9IQ1ZhQI5SYnlPvyYyw%3D%3D&sa=X&ved=2ahUKEwie1fvr_JiQAxUkS2cHHQUBA2UQs4ILegQIZRAD"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:43:46.012658",
+    "type": "scamadviser_result",
+    "details": {
+      "url": "https://www.google.com/search?sca_esv=fe1d53302ad225f0&sxsrf=AE3TifNBMS_0uQlvzwZujmewClZ_a9H_yA:1760076750584&q=Palolem+Beach&si=AMgyJEveiRpRWbYSNPkEPxCUbItHSvun4xkRgDDPLmrOjDx35Acy4RmontR09VebbgzBZejLeEIDloC9IQ1ZhQI5SYnlPvyYyw%3D%3D&sa=X&ved=2ahUKEwie1fvr_JiQAxUkS2cHHQUBA2UQs4ILegQIZRAD",
+      "trust_score": 55,
+      "verdict": "Suspicious"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:43:46.058929",
+    "type": "location_verification",
+    "details": {
+      "url": "https://www.google.com/search?sca_esv=fe1d53302ad225f0&sxsrf=AE3TifNBMS_0uQlvzwZujmewClZ_a9H_yA:1760076750584&q=Palolem+Beach&si=AMgyJEveiRpRWbYSNPkEPxCUbItHSvun4xkRgDDPLmrOjDx35Acy4RmontR09VebbgzBZejLeEIDloC9IQ1ZhQI5SYnlPvyYyw%3D%3D&sa=X&ved=2ahUKEwie1fvr_JiQAxUkS2cHHQUBA2UQs4ILegQIZRAD",
+      "title": "Palolem Beach"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:43:46.122119",
+    "type": "location_result",
+    "details": {
+      "url": "https://www.google.com/search?sca_esv=fe1d53302ad225f0&sxsrf=AE3TifNBMS_0uQlvzwZujmewClZ_a9H_yA:1760076750584&q=Palolem+Beach&si=AMgyJEveiRpRWbYSNPkEPxCUbItHSvun4xkRgDDPLmrOjDx35Acy4RmontR09VebbgzBZejLeEIDloC9IQ1ZhQI5SYnlPvyYyw%3D%3D&sa=X&ved=2ahUKEwie1fvr_JiQAxUkS2cHHQUBA2UQs4ILegQIZRAD",
+      "verified": false,
+      "reason": "Not hotel-related"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:43:46.178673",
+    "type": "content_analysis",
+    "details": {
+      "source": "Google",
+      "url": "https://www.google.com/search?q=goa+#"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:44:36.808353",
+    "type": "scamadviser_analysis",
+    "details": {
+      "url": "https://www.google.com/search?q=goa+#"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:44:42.738371",
+    "type": "scamadviser_result",
+    "details": {
+      "url": "https://www.google.com/search?q=goa+#",
+      "trust_score": 55,
+      "verdict": "Suspicious"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:44:42.787879",
+    "type": "location_verification",
+    "details": {
+      "url": "https://www.google.com/search?q=goa+#",
+      "title": "Tourist Attractions"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:44:42.823929",
+    "type": "location_result",
+    "details": {
+      "url": "https://www.google.com/search?q=goa+#",
+      "verified": false,
+      "reason": "Not hotel-related"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:44:42.863998",
+    "type": "content_analysis",
+    "details": {
+      "source": "Google",
+      "url": "http://www.google.com/search?q=Goa+stay&mrq=1&mrqri=0&mrqei=zqPoaJ62I6SWnesPhYKMqAY&sa=X&ved=2ahUKEwie1fvr_JiQAxUkS2cHHQUBA2UQyO0OKAB6BQilARAF"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:44:48.100653",
+    "type": "scamadviser_analysis",
+    "details": {
+      "url": "http://www.google.com/search?q=Goa+stay&mrq=1&mrqri=0&mrqei=zqPoaJ62I6SWnesPhYKMqAY&sa=X&ved=2ahUKEwie1fvr_JiQAxUkS2cHHQUBA2UQyO0OKAB6BQilARAF"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:44:51.127279",
+    "type": "scamadviser_result",
+    "details": {
+      "url": "http://www.google.com/search?q=Goa+stay&mrq=1&mrqri=0&mrqei=zqPoaJ62I6SWnesPhYKMqAY&sa=X&ved=2ahUKEwie1fvr_JiQAxUkS2cHHQUBA2UQyO0OKAB6BQilARAF",
+      "trust_score": 40,
+      "verdict": "Suspicious"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:44:51.185558",
+    "type": "location_verification",
+    "details": {
+      "url": "http://www.google.com/search?q=Goa+stay&mrq=1&mrqri=0&mrqei=zqPoaJ62I6SWnesPhYKMqAY&sa=X&ved=2ahUKEwie1fvr_JiQAxUkS2cHHQUBA2UQyO0OKAB6BQilARAF",
+      "title": "Find related products & services"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:44:51.241292",
+    "type": "location_result",
+    "details": {
+      "url": "http://www.google.com/search?q=Goa+stay&mrq=1&mrqri=0&mrqei=zqPoaJ62I6SWnesPhYKMqAY&sa=X&ved=2ahUKEwie1fvr_JiQAxUkS2cHHQUBA2UQyO0OKAB6BQilARAF",
+      "verified": false,
+      "reason": "Not hotel-related"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:44:51.297742",
+    "type": "content_analysis",
+    "details": {
+      "source": "Google",
+      "url": "https://goa-tourism.com/"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:44:58.516759",
+    "type": "scamadviser_analysis",
+    "details": {
+      "url": "https://goa-tourism.com/"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:45:01.844346",
+    "type": "scamadviser_result",
+    "details": {
+      "url": "https://goa-tourism.com/",
+      "trust_score": 40,
+      "verdict": "Suspicious"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:45:01.889301",
+    "type": "location_verification",
+    "details": {
+      "url": "https://goa-tourism.com/",
+      "title": "Goa Tourism"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:45:04.047525",
+    "type": "location_result",
+    "details": {
+      "url": "https://goa-tourism.com/",
+      "verified": false,
+      "reason": "Could not find matching location in Google Places"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:45:04.097152",
+    "type": "content_analysis",
+    "details": {
+      "source": "YouTube",
+      "url": "https://www.youtube.com/watch?v=WRlMqsXftug"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:45:08.092243",
+    "type": "content_analysis",
+    "details": {
+      "source": "YouTube",
+      "url": "https://www.youtube.com/watch?v=F3YGYr37QFI"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:45:17.563493",
+    "type": "content_analysis",
+    "details": {
+      "source": "YouTube",
+      "url": "https://www.youtube.com/watch?v=z_8Gzjx3s_Q"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:45:21.863640",
+    "type": "content_analysis",
+    "details": {
+      "source": "YouTube",
+      "url": "https://www.youtube.com/watch?v=FFwPNJga0gc"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:45:26.205450",
+    "type": "content_analysis",
+    "details": {
+      "source": "YouTube",
+      "url": "https://www.youtube.com/watch?v=a7JZ02jXT4I"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:45:30.823242",
+    "type": "content_analysis",
+    "details": {
+      "source": "YouTube",
+      "url": "https://www.youtube.com/watch?v=eAvDgkOB78M"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:45:34.683426",
+    "type": "content_analysis",
+    "details": {
+      "source": "YouTube",
+      "url": "https://www.youtube.com/watch?v=P553UP2jLUE"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:45:41.220119",
+    "type": "content_analysis",
+    "details": {
+      "source": "YouTube",
+      "url": "https://www.youtube.com/watch?v=n5WnMJ0J6qA"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:45:46.640247",
+    "type": "content_analysis",
+    "details": {
+      "source": "YouTube",
+      "url": "https://www.youtube.com/watch?v=Xy_81EBUlbA"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:45:51.979296",
+    "type": "content_analysis",
+    "details": {
+      "source": "YouTube",
+      "url": "https://www.youtube.com/watch?v=sifEf0iS8Lc"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:45:57.193285",
+    "type": "content_analysis",
+    "details": {
+      "source": "Facebook",
+      "url": "https://www.facebook.com/GoaExplore?__tn__=%3C"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:46:03.850194",
+    "type": "content_analysis",
+    "details": {
+      "source": "Facebook",
+      "url": "No link found"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:46:12.348075",
+    "type": "content_analysis",
+    "details": {
+      "source": "Facebook",
+      "url": "https://www.facebook.com/groups/GoaTraveller/?__tn__=%3C"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T11:46:56.054305",
+    "type": "content_analysis",
+    "details": {
+      "source": "Facebook",
+      "url": "No link found"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T15:18:44.040339",
+    "type": "search",
+    "details": {
+      "platform": "Google",
+      "query": "porn"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T15:18:44.398569",
+    "type": "error",
+    "details": {
+      "platform": "Google",
+      "message": "Message: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=141.0.7390.55)\nStacktrace:\n\tGetHandleVerifier [0x0x30fea3+66515]\n\tGetHandleVerifier [0x0x30fee4+66580]\n\t(No symbol) [0x0xfdc48]\n\t(No symbol) [0x0xdc18d]\n\t(No symbol) [0x0x171a4e]\n\t(No symbol) [0x0x18c4d9]\n\t(No symbol) [0x0x16afc6]\n\t(No symbol) [0x0x13c2ca]\n\t(No symbol) [0x0x13d154]\n\tGetHandleVerifier [0x0x5673d3+2521347]\n\tGetHandleVerifier [0x0x562353+2500739]\n\tGetHandleVerifier [0x0x337cf4+229924]\n\tGetHandleVerifier [0x0x328258+165768]\n\tGetHandleVerifier [0x0x32ed0d+193085]\n\tGetHandleVerifier [0x0x3181b8+100072]\n\tGetHandleVerifier [0x0x318350+100480]\n\tGetHandleVerifier [0x0x30260a+11066]\n\tBaseThreadInitThunk [0x0x763f5d49+25]\n\tRtlInitializeExceptionChain [0x0x77c6d6db+107]\n\tRtlGetAppContainerNamedObjectPath [0x0x77c6d661+561]\n\t(No symbol) [0x0]\n"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T15:18:44.409667",
+    "type": "search",
+    "details": {
+      "platform": "YouTube",
+      "query": "porn"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T15:18:44.508923",
+    "type": "error",
+    "details": {
+      "platform": "YouTube",
+      "message": "date.isoformat() takes no arguments (1 given)"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T15:18:44.548619",
+    "type": "search",
+    "details": {
+      "platform": "Facebook",
+      "query": "porn"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T15:18:44.598214",
+    "type": "error",
+    "details": {
+      "platform": "Facebook",
+      "message": "Message: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=141.0.7390.55)\nStacktrace:\n\tGetHandleVerifier [0x0x30fea3+66515]\n\tGetHandleVerifier [0x0x30fee4+66580]\n\t(No symbol) [0x0xfdc48]\n\t(No symbol) [0x0xdc18d]\n\t(No symbol) [0x0x171a4e]\n\t(No symbol) [0x0x18c4d9]\n\t(No symbol) [0x0x16afc6]\n\t(No symbol) [0x0x13c2ca]\n\t(No symbol) [0x0x13d154]\n\tGetHandleVerifier [0x0x5673d3+2521347]\n\tGetHandleVerifier [0x0x562353+2500739]\n\tGetHandleVerifier [0x0x337cf4+229924]\n\tGetHandleVerifier [0x0x328258+165768]\n\tGetHandleVerifier [0x0x32ed0d+193085]\n\tGetHandleVerifier [0x0x3181b8+100072]\n\tGetHandleVerifier [0x0x318350+100480]\n\tGetHandleVerifier [0x0x30260a+11066]\n\tBaseThreadInitThunk [0x0x763f5d49+25]\n\tRtlInitializeExceptionChain [0x0x77c6d6db+107]\n\tRtlGetAppContainerNamedObjectPath [0x0x77c6d661+561]\n\t(No symbol) [0x0]\n"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T15:18:44.664498",
+    "type": "search",
+    "details": {
+      "platform": "Instagram",
+      "query": "porn"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T15:18:44.708909",
+    "type": "error",
+    "details": {
+      "platform": "Instagram",
+      "message": "Message: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=141.0.7390.55)\nStacktrace:\n\tGetHandleVerifier [0x0x30fea3+66515]\n\tGetHandleVerifier [0x0x30fee4+66580]\n\t(No symbol) [0x0xfdc48]\n\t(No symbol) [0x0xdc18d]\n\t(No symbol) [0x0x171a4e]\n\t(No symbol) [0x0x18c4d9]\n\t(No symbol) [0x0x16afc6]\n\t(No symbol) [0x0x13c2ca]\n\t(No symbol) [0x0x13d154]\n\tGetHandleVerifier [0x0x5673d3+2521347]\n\tGetHandleVerifier [0x0x562353+2500739]\n\tGetHandleVerifier [0x0x337cf4+229924]\n\tGetHandleVerifier [0x0x328258+165768]\n\tGetHandleVerifier [0x0x32ed0d+193085]\n\tGetHandleVerifier [0x0x3181b8+100072]\n\tGetHandleVerifier [0x0x318350+100480]\n\tGetHandleVerifier [0x0x30260a+11066]\n\tBaseThreadInitThunk [0x0x763f5d49+25]\n\tRtlInitializeExceptionChain [0x0x77c6d6db+107]\n\tRtlGetAppContainerNamedObjectPath [0x0x77c6d661+561]\n\t(No symbol) [0x0]\n"
+    }
+  }
+]

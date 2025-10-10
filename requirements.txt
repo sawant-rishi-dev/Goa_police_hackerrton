@@ -1,0 +1,12 @@
+google-api-python-client==2.108.0
+google-generativeai==0.3.2
+python-dotenv==1.0.0
+flask==2.3.3
+pandas==2.0.3
+python-whois
+requests
+google-generativeai
+python-dotenv
+sqlite3==3.50.4
+pickle
+argparse
